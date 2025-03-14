@@ -8,9 +8,9 @@ John Sebastian<sup>\*</sup> and Kaare H Jensen<sup>\+</sup> \
 Soft Matter Biophysics Group ([jensen-research.com](https://jensen-research.com/)) \
 Department of Physics (FLUIDS) \
 Technical University of Denmark (DTU) \
-<sup>\*</sup>johnseb@dtu.dk \
-<sup>\+</sup>khjensen@fysik.dtu.dk 
+<sup>\*</sup>johnseb@dtu.dk     <sup>\+</sup>khjensen@fysik.dtu.dk 
 
++ At the APS Global Physics Summit 2025: https://summit.aps.org/events/MAR-N64/10 
 
 ## Abstract
 Despite their ubiquity in nature, spikes or stingers rarely exhibit sharp tips. Instead, a closer
