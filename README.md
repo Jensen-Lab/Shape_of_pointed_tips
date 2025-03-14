@@ -4,7 +4,13 @@
 
 
 # Random wear shapes all pointed tips alike
-John Sebastian and Kaare H Jensen
+John Sebastian<sup>\*</sup> and Kaare H Jensen<sup>\+</sup> \
+Soft Matter Biophysics Group ([jensen-research.com](https://jensen-research.com/)) \
+Department of Physics (FLUIDS) \
+Technical University of Denmark (DTU) \
+<sup>\*</sup>johnseb@dtu.dk \
+<sup>\+</sup>khjensen@fysik.dtu.dk 
+
 
 ## Abstract
 Despite their ubiquity in nature, spikes or stingers rarely exhibit sharp tips. Instead, a closer
